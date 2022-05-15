@@ -24,15 +24,15 @@ Controller Design
 
 **FSM**
 
-![](RackMultipart20220514-1-nwj5dw_html_8e587265b458b438.png)
+![](./images/1.png)
 
 **Architecture**
 
-![](RackMultipart20220514-1-nwj5dw_html_73b5ed8003fd5f40.png)
+![](./images/2.png)
 
 **HLSM**
 
-![](RackMultipart20220514-1-nwj5dw_html_8c25a5ea4c9fd7bf.png)
+![](./images/3.png)
 
 Truth Table
 
@@ -52,11 +52,11 @@ _B = button, Reset = reset button, A1 and A0 = current state, S3-S0 = LED output
 
 Controller Schematic
 
-![](RackMultipart20220514-1-nwj5dw_html_b5d77bb54db5f01e.png)
+![](./images/4.png)
 
 Timing Diagrams
 
-![](RackMultipart20220514-1-nwj5dw_html_52dd8cef595dcf93.png)
+![](./images/5.png)
 
 YouTube Video
 
